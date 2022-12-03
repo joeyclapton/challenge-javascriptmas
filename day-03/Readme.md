@@ -1,6 +1,6 @@
 # Favorite Foods
 
-## Topic: Object Destructuring
+Topic: Object Destructuring
 1. Edit the faveFoods object so that it contains 
 your favorite foods.
 2. Destructure the faveFoods object into three consts: 
