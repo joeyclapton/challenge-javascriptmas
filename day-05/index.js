@@ -16,4 +16,6 @@ function getSaleItems(data){
     return newItems;
 };
 
-console.log(getSaleItems(products))
+const shoppingCart = getSaleItems(products);
+
+console.log(shoppingCart);
